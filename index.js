@@ -35,3 +35,4 @@ function reset() {
     elapsedTime = 0;
     updateDisplay();
 }
+
